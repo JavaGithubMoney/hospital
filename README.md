@@ -27,7 +27,7 @@
 5. 	留言：可以对医院进行留言并且可看到所有人的留言。
 
 ### 技术要求	
-1. Servlet+Jsp+Jdbc+dbutils+EasyUI+jQuery+Ajax+面向接口编程；
+1. Spring+SpringMVC+Mybatis+EasyUI+jQuery+Ajax+面向接口编程；
 2. 使用SQL Server或MySQL作为后台数据库，依据数据库设计过程及规范，设计数据库表结构及主外键关系，并结合功能需求适当设计存储过程和触发器；
 3. 采用面向对象设计方法学，运用所学的面向对象分析设计方法，以及对应的工具对系统进行分析与设计建模；
 4. 基于模块化编程思想，程序源文件应划分为相应package，组织层次清晰；
